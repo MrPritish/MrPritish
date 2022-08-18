@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
-- 💬 Ask me about **Django, Flask, Python, React.js**
+- 💬 Ask me about **Django, Python, React.js**
 
 - 📫 How to reach me **phchepure@gmail.com**
 
