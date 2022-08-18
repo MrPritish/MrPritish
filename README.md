@@ -1,5 +1,5 @@
 <h1 align="center">Hi Devs 👋, I'm Pritish Hanmantrao Chepure</h1>
-<h3 align="center">I like doing automations with selenium. Currently I am a front end developer with a good knowledge of HTML, CSS. Soon I'll be doing back-end Development in Python.</h3>
+<h3 align="center">I like doing automations with selenium. Currently I am a front end developer with a good knowledge of HTML, CSS. Soon I'll be doing back-end Development.</h3>
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
